@@ -5,6 +5,7 @@ This is a hardware based project where the objective is to catch a ball with a b
 
 Language used here is python (for OpenCV ) and libraries needed are cvzone, pyserial, numpy.
 
+ballcatcher.py contains the code to be executed for ball detection (pink color hsv is set).
+ln289n.io contains the code to be uploaded to the arduino board.
 
-
-Further information available on the attached Presentation.pdf 
+Further information is available on the attached Presentation.pdf 
