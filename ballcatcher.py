@@ -34,7 +34,7 @@ while (True):
         imgColor, mask = myColorFinder.update(img,hsvVals)
         
         
-# Find location of the ball
+# To Find location of the ball
         imgContours, countours=cvzone.findContours(img,mask,minArea=10)
         if countours:
             # Stops when poslistX raches just before n
