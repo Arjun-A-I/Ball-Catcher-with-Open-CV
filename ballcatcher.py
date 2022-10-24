@@ -5,10 +5,6 @@ from sre_constants import SUCCESS
 import cv2
 import cvzone
 from cvzone.ColorModule import ColorFinder
-import numpy as np
-import time
-import keyboard  
-import math
 
 
 #cap=cv2.VideoCapture('Files/Videos/vid (1).mp4')
